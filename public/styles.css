@@ -1,0 +1,118 @@
+.app {
+    position: relative;
+    align-self: center;
+}
+
+html {
+    font-family: "Roboto", sans-serif;
+    
+}
+
+body{
+  background-color:#bbe1fa
+}
+
+h1{
+    text-align: left;
+    padding: 30px;
+    background-color: #3282b8;
+    margin: auto;
+
+}
+
+p{
+  text-align: left;
+  padding: inherit;
+  padding: 25px;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+
+
+footer {
+   
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    margin-bottom: 0;
+}
+  
+footer p {
+    color: black;
+    margin-bottom: 0em;
+    text-align: center;
+}
+
+form.create-contact {
+    position: relative;
+    width: 480px;
+    margin: 30px auto 20px auto;
+    background: #fff;
+    padding: 15px;
+    border-radius: 7px;
+    box-shadow: 1px 1px 5px rgb(138, 137, 137);
+}
+
+form.create-contact input,
+form.create-contact textarea {
+  width: 100%;
+  border: none;
+  padding: 4px;
+  outline: none;
+  font-size: 1.2em;
+  font-family: inherit;
+  resize: none;
+}
+
+ button {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    border-radius: 50%;
+    border: black;
+    width: 56px;
+    height: 56px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    outline: none;
+  }
+
+  #deletebtn{
+    margin-right: 50px;
+    display:inherit;
+    align-items: center;
+
+  }
+
+.contact{
+  background-color: white;
+  padding: 35px;
+  font-size: 5px;
+  display: inline-block;
+  border: 5px outset #1C6EA4;
+
+}
+
+#about {
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+}
+.about-content{
+  width: 80%;
+  border: 15px solid #0f4c75;
+  padding: 50px;
+  margin: 20px;
+  position: relative;
+  align-self: center;
+}
+
+img {
+  max-width: 100%;
+}
