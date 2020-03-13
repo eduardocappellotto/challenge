@@ -21,6 +21,8 @@ Você também verá quaisquer erros no console do ambiente.
 
 Realizei o deploy da build standard no Heroku
 
+##  [Link da aplicação no Heroku :fire:](https://challenge-cappellotto.herokuapp.com/)
+
 Foram utilizados as seguintes tecnologias:
 
  - HTML5
